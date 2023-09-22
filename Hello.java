@@ -10,9 +10,10 @@ class Hello{
 
 System.out.println(sum);
 System.out.println(sum);
+
 System.out.println(sum+sub);
 
-System.out.println(sum-sub);
+
 
 
 
