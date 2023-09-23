@@ -4,14 +4,15 @@ class Hello{
 
     public static void main(String args[]) {
         int num1=5;
-        int num2=8;
-        int sum =num1+num2;
-         int sub =num1-num2;
+          short sh=12; 
+        byte b=1;
+        Long l = 589l;
+         float f =5.44f;
+        double dou =3.56;
+        char c='h';
+        boolean bool =true;
 
-System.out.println(sum);
-System.out.println(sum);
 
-System.out.println(sum+sub);
 
 
 
