@@ -17,18 +17,26 @@ class Hello{
 
  //type conversion in java
 
-     int i=24;
-      byte b= 127;
-     float f=(float)i;
+    //  int i=24;
+    //   byte b= 127;
+    //  float f=(float)i;
 
-      double d=(double)f;
-      int j=(int)d;
+    //   double d=(double)f;
+    //   int j=(int)d;
 
-      System.out.println(d);
-        System.out.println(j);
+    //   System.out.println(d);
+    //     System.out.println(j);
 
 
-
+   //Assignment Operators in Java
+   int num =5;
+  //  num=num+1;
+  // num+=1;
+  // num++; // post increment
+  //  ++num; //pre increment
+  int r=num++; //post increment fetch the value and then increment
+  // int r=++num; // pre increment first inrement the value and then fetch it
+   System.out.println(r);
 
 
 
